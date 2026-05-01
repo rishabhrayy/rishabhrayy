@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rishabh
 
-<!--
-**rishabhrayy/rishabhrayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer (Student) @ Monash University  
 
-Here are some ideas to get you started:
+I build machine learning, deep learning, and multi-agent systems from first principles — focusing on understanding how systems actually work, not just using APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- Machine Learning (from-scratch implementations, model evaluation)
+- Deep Learning (custom layers, optimisers, training pipelines)
+- Reinforcement Learning (multi-agent systems, DQN)
+- AI Planning & Optimisation (search, constraint programming)
+
+## Featured Projects
+
+### Multi-Agent Reinforcement Learning (DQN)
+Built a multi-agent RL system using Deep Q-Networks with curriculum learning and coordinated behaviour.
+
+### Hybrid AI Agent
+Designed an intelligent agent combining A* search, particle filtering, and symbolic reasoning.
+
+### Machine Learning from Scratch
+Implemented KNN, cross-validation, and model selection without high-level frameworks.
+
+### Deep Learning from Scratch
+Built neural networks, activation functions, and optimisers manually using PyTorch primitives.
+
+## Tech Stack
+Python | PyTorch | NumPy | Scikit-learn | MiniZinc
+
+## Connect
+LinkedIn: https://linkedin.com/in/rishabhrayy
+GitHub: https://github.com/rishabhrayy

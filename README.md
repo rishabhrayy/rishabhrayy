@@ -2,7 +2,7 @@
 
 AI Engineer, Monash University graduate (Master of Artificial Intelligence)
 
-I build machine learning, deep learning, and multi-agent systems from first principles — focusing on understanding how systems actually work, not just using APIs.
+I build machine learning, deep learning, and multi-agent systems from first principles - focusing on understanding how systems actually work, not just using APIs.
 
 ## What I Work On
 

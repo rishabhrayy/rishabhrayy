@@ -1,37 +1,74 @@
-# Hi, I'm Rishabh
+<a href="https://rishabhray.vercel.app"><img src="assets/banner.png" alt="Rishabh Ray - Models fail. Products shouldn't." width="100%"></a>
 
-AI Engineer, Monash University graduate (Master of Artificial Intelligence)
+<p align="center">
+  <a href="https://rishabhray.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rishabhray.vercel.app-F0621A?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rishabhrayy"><img src="https://img.shields.io/badge/LinkedIn-rishabhrayy-3F4520?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rishabh.aust@gmail.com"><img src="https://img.shields.io/badge/Email-rishabh.aust%40gmail.com-3F4520?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I build machine learning, deep learning, and multi-agent systems from first principles - focusing on understanding how systems actually work, not just using APIs.
+### Hi, I'm Rishabh
 
-## What I Work On
+AI Engineer in Melbourne with a Master of Artificial Intelligence from Monash University. I build AI features that keep working when the model doesn't: a deterministic core that always answers, a model on top that improves the answer, and fallbacks for every way it can fail.
 
-- Machine Learning (from-scratch implementations, model evaluation)
-- Deep Learning (custom layers, optimisers, training pipelines)
-- Reinforcement Learning (multi-agent systems, DQN)
-- AI Planning & Optimisation (search, constraint programming)
+Right now I mentor student software teams at Monash and build RAY/OS, my own AI operating system.
 
-## Featured Projects
+## Featured work
 
-### [Multi-Agent Reinforcement Learning (DQN)](https://github.com/rishabhrayy/monash-projects/tree/main/FIT5226%20Multi%20agent%20systems%20and%20collective%20behaviour%20-%20S1%202025)
-Built a multi-agent RL system using Deep Q-Networks with curriculum learning and coordinated behaviour.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rishabhrayy/neighbourfit">NeighbourFit</a></h3>
+      <sub>Expo winner, Monash PG Industry Experience 2026</sub>
+      <p>Melbourne suburb recommender. Deterministic scoring ranks 290+ suburbs first, Llama 3.3 re-ranks, summarises and reads voice input, with enforced JSON and graceful fallbacks.</p>
+      <p><a href="https://rishabhray.vercel.app/projects/neighbourfit"><b>Case study</b></a> · <a href="https://github.com/rishabhrayy/neighbourfit">Docs</a></p>
+      <sub>Vue 3 · Flask · AWS Lambda · PostgreSQL · Llama 3.3</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rishabhrayy/outfit-picker">Outfit Picker</a></h3>
+      <sub>Solo, shipped</sub>
+      <p>Local-first PWA wardrobe. Swap OpenAI, Claude, Gemini or Groq at runtime behind one interface, with a fallback ladder for structured output. Photos and keys never leave the device.</p>
+      <p><a href="https://rishabhray-outfit-picker.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/rishabhrayy/outfit-picker">Code</a></p>
+      <sub>React · Vite · IndexedDB · PWA</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rishabhrayy/monash-projects">AI Systems, from first principles</a></h3>
+      <sub>Master of AI coursework</sub>
+      <p>Four cooperating DQN agents trained from scratch, optimisers written by hand on raw tensors, KNN with a KDTree, and a Pacman team that tracks hidden opponents with a particle filter.</p>
+      <p><a href="https://github.com/rishabhrayy/monash-projects"><b>Code</b></a></p>
+      <sub>Python · PyTorch · NumPy</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://rishabhray.vercel.app/#rayos">RAY/OS</a></h3>
+      <sub>Personal, running daily</sub>
+      <p>My second brain on Claude and an Obsidian vault: a pipeline for notes, skills that encode how I work, scheduled agents, and a voice console I can reach from my phone. It drafts. I decide.</p>
+      <p><a href="https://rishabhray.vercel.app/#rayos"><b>How it works</b></a></p>
+      <sub>Claude · Obsidian · Python · Flask · MCP</sub>
+    </td>
+  </tr>
+</table>
 
-### [Hybrid AI Agent](https://github.com/rishabhrayy/monash-projects/tree/main/FIT5222%20Planning%20and%20automated%20reasoning%20-%20S2%202025)
-Designed an intelligent agent combining A* search, particle filtering, and symbolic reasoning.
+## Stack
 
-### [Machine Learning from Scratch](https://github.com/rishabhrayy/monash-projects/tree/main/FIT5201%20Machine%20learning%20-%20S2%202025)
-Implemented KNN, cross-validation, and model selection without high-level frameworks.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3.3">
+  <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+</p>
 
-### [Deep Learning from Scratch](https://github.com/rishabhrayy/monash-projects/tree/main/FIT5215%20Deep%20learning%20-%20S2%202025)
-Built neural networks, activation functions, and optimisers manually using PyTorch primitives.
+## Also here
 
-Full portfolio: [monash-projects](https://github.com/rishabhrayy/monash-projects)
+- [movie-recommender](https://github.com/rishabhrayy/movie-recommender) - content-based recommender with TF-IDF, cosine similarity and a Flask API
+- [snake-game](https://github.com/rishabhrayy/snake-game) - classic Snake in Python and Pygame
 
-## Tech Stack
-
-Python | PyTorch | NumPy | Scikit-learn | MiniZinc
-
-## Connect
-
-LinkedIn: https://linkedin.com/in/rishabhrayy
-GitHub: https://github.com/rishabhrayy
+<sub>Full work rights in Australia to August 2029, no sponsorship required.</sub>

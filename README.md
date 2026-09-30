@@ -66,9 +66,12 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
 </p>
 
-## Also here
+## Play in your browser
 
-- [movie-recommender](https://github.com/rishabhrayy/movie-recommender) - content-based recommender with TF-IDF, cosine similarity and a Flask API
-- [snake-game](https://github.com/rishabhrayy/snake-game) - classic Snake in Python and Pygame
+| Project | What it does | |
+|---|---|---|
+| [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. | [**Try it**](https://rishabhray-property.vercel.app) |
+| [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. | [**Try it**](https://rishabhray-movies.vercel.app) |
+| [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Swipe on a phone. | [**Play**](https://rishabhray-snake.vercel.app) |
 
 <sub>Full work rights in Australia to August 2029, no sponsorship required.</sub>

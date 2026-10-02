@@ -1,7 +1,7 @@
-<a href="https://rishabhray.vercel.app"><img src="assets/banner.png" alt="Rishabh Ray - Models fail. Products shouldn't." width="100%"></a>
+<a href="https://rishabhray.me"><img src="assets/banner.png" alt="Rishabh Ray - Models fail. Products shouldn't." width="100%"></a>
 
 <p align="center">
-  <a href="https://rishabhray.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rishabhray.vercel.app-F0621A?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://rishabhray.me"><img src="https://img.shields.io/badge/Portfolio-rishabhray.me-F0621A?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rishabhrayy"><img src="https://img.shields.io/badge/LinkedIn-rishabhrayy-3F4520?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rishabh.aust@gmail.com"><img src="https://img.shields.io/badge/Email-rishabh.aust%40gmail.com-3F4520?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -20,7 +20,7 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
       <h3><a href="https://github.com/rishabhrayy/neighbourfit">NeighbourFit</a></h3>
       <sub>Expo winner, Monash PG Industry Experience 2026</sub>
       <p>Melbourne suburb recommender. Deterministic scoring ranks 290+ suburbs first, Llama 3.3 re-ranks, summarises and reads voice input, with enforced JSON and graceful fallbacks.</p>
-      <p><a href="https://rishabhray.vercel.app/projects/neighbourfit"><b>Case study</b></a> · <a href="https://github.com/rishabhrayy/neighbourfit">Docs</a></p>
+      <p><a href="https://rishabhray.me/projects/neighbourfit"><b>Case study</b></a> · <a href="https://github.com/rishabhrayy/neighbourfit">Docs</a></p>
       <sub>Vue 3 · Flask · AWS Lambda · PostgreSQL · Llama 3.3</sub>
     </td>
     <td width="50%" valign="top">
@@ -40,10 +40,10 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
       <sub>Python · PyTorch · NumPy</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://rishabhray.vercel.app/#rayos">RAY/OS</a></h3>
+      <h3><a href="https://rishabhray.me/#rayos">RAY/OS</a></h3>
       <sub>Personal, running daily</sub>
       <p>My second brain on Claude and an Obsidian vault: a pipeline for notes, skills that encode how I work, scheduled agents, and a voice console I can reach from my phone. It drafts. I decide.</p>
-      <p><a href="https://rishabhray.vercel.app/#rayos"><b>How it works</b></a></p>
+      <p><a href="https://rishabhray.me/#rayos"><b>How it works</b></a></p>
       <sub>Claude · Obsidian · Python · Flask · MCP</sub>
     </td>
   </tr>

@@ -27,7 +27,7 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
       <h3><a href="https://github.com/rishabhrayy/outfit-picker">Outfit Picker</a></h3>
       <sub>Solo, shipped</sub>
       <p>Local-first PWA wardrobe. Swap OpenAI, Claude, Gemini or Groq at runtime behind one interface, with a fallback ladder for structured output. Photos and keys never leave the device.</p>
-      <p><a href="https://rishabhray-outfit-picker.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/rishabhrayy/outfit-picker">Code</a></p>
+      <p><a href="https://outfit.rishabhray.me"><b>Live demo</b></a> · <a href="https://github.com/rishabhrayy/outfit-picker">Code</a></p>
       <sub>React · Vite · IndexedDB · PWA</sub>
     </td>
   </tr>
@@ -70,8 +70,8 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
 
 | Project | What it does | |
 |---|---|---|
-| [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. | [**Try it**](https://rishabhray-property.vercel.app) |
-| [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. | [**Try it**](https://rishabhray-movies.vercel.app) |
-| [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Swipe on a phone. | [**Play**](https://rishabhray-snake.vercel.app) |
+| [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. | [**Try it**](https://property.rishabhray.me) |
+| [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. | [**Try it**](https://movies.rishabhray.me) |
+| [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Swipe on a phone. | [**Play**](https://snake.rishabhray.me) |
 
 <sub>Full work rights in Australia to August 2029, no sponsorship required.</sub>

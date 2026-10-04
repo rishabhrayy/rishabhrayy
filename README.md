@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://rishabhray.me"><img src="https://img.shields.io/badge/Portfolio-rishabhray.me-F0621A?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/rishabhrayy"><img src="https://img.shields.io/badge/LinkedIn-rishabhrayy-3F4520?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rishabh.aust@gmail.com"><img src="https://img.shields.io/badge/Email-rishabh.aust%40gmail.com-3F4520?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:hi@rishabhray.me"><img src="https://img.shields.io/badge/Email-hi%40rishabhray.me-3F4520?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: hi@rishabhray.me"></a>
 </p>
 
 ### Hi, I'm Rishabh
@@ -26,7 +26,7 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rishabhrayy/outfit-picker">Outfit Picker</a></h3>
       <sub>Solo, shipped</sub>
-      <p>Local-first PWA wardrobe. Swap OpenAI, Claude, Gemini or Groq at runtime behind one interface, with a fallback ladder for structured output. Photos and keys never leave the device.</p>
+      <p>Local-first PWA wardrobe. Swap OpenAI, Claude, Gemini or Groq at runtime behind one interface, with a fallback ladder for structured output. Photos and keys never leave the device; a one-file backup moves the wardrobe between them.</p>
       <p><a href="https://outfit.rishabhray.me"><b>Live demo</b></a> · <a href="https://github.com/rishabhrayy/outfit-picker">Code</a></p>
       <sub>React · Vite · IndexedDB · PWA</sub>
     </td>
@@ -70,8 +70,8 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
 
 | Project | What it does | |
 |---|---|---|
-| [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. | [**Try it**](https://property.rishabhray.me) |
-| [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. | [**Try it**](https://movies.rishabhray.me) |
-| [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Swipe on a phone. | [**Play**](https://snake.rishabhray.me) |
+| [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. Shows what would move the price, and the same home in nearby suburbs. | [**Try it**](https://property.rishabhray.me) |
+| [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. Blend two films to find ones like both. | [**Try it**](https://movies.rishabhray.me) |
+| [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Classic and Wrap modes, and a best score that sticks. | [**Play**](https://snake.rishabhray.me) |
 
 <sub>Full work rights in Australia to August 2029, no sponsorship required.</sub>

@@ -73,5 +73,6 @@ Right now I mentor student software teams at Monash and build RAY/OS, my own AI 
 | [Melbourne house prices](https://github.com/rishabhrayy/property-predictor) | XGBoost with an 80% price range, running entirely in the browser. 10.3% median error on sales it never saw. Shows what would move the price, and the same home in nearby suburbs. | [**Try it**](https://property.rishabhray.me) |
 | [Movie recommender](https://github.com/rishabhrayy/movie-recommender) | Pick a film, get five that share its cast, director, genre or plot, with the reason for each. The API also blends two films to find ones like both. | [**Try it**](https://movies.rishabhray.me) |
 | [Snake](https://github.com/rishabhrayy/snake-game) | Pygame compiled to WebAssembly, so the desktop game plays in the browser. Classic and Wrap modes, and a best score that sticks. | [**Play**](https://snake.rishabhray.me) |
+| [Ask about my work](https://github.com/rishabhrayy/ask-rishabh) | A RAG assistant over my site: hybrid search, cited answers, two model providers, and a no-model answer when both are down. Evaluated in CI. | [**Ask it**](https://rishabhray.me/#ask) |
 
 <sub>Full work rights in Australia to August 2029, no sponsorship required.</sub>
